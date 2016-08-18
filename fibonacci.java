@@ -11,6 +11,7 @@ public class fibonacci {
 			a=b;
 			b=c;
 			c=a+b;
+			
 		}
 
 	}
